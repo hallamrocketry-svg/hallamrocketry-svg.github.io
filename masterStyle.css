@@ -1,8 +1,10 @@
 body {background-color: #151114;}
 h1 {color: #BE5BAC}
 h2 {color: #FFFFFF}
+h4 {color: #BE5BAC}
 p {color: #FFFFFF}
 
+.card-title { color: #BE5BAC}
 
 .video-background-container {
             position: relative;
