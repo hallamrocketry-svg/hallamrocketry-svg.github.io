@@ -3,6 +3,7 @@ h1 {color: #BE5BAC}
 h2 {color: #FFFFFF}
 h4 {color: #BE5BAC}
 p {color: #FFFFFF}
+.yourClass { background-color: #BE5BAC; }
 
 .card-title { color: #BE5BAC}
 
@@ -56,3 +57,4 @@ p {color: #FFFFFF}
             max-width: 50vw;
             object-fit: contain;
         }
+		
